@@ -1047,7 +1047,7 @@ def main():
     plt.show()
     st.pyplot()
 ##############################################################################################9
-'''
+
   elif (choose_stock == "BRITANNIA.NS"):
     # get abfrl real time stock price
     ticker = 'BRITANNIA.NS'
@@ -6301,7 +6301,7 @@ def main():
     plt.plot(day_pred,asd)
     plt.show()
     st.pyplot()
-  '''
+ 
 
  
 
