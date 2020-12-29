@@ -1,0 +1,12 @@
+tensorflow-cpu
+Keras==2.4.3
+matplotlib==3.2.2
+pandas==1.1.5
+numpy==1.19.4
+pandas_datareader==0.9.0
+Werkzeug==1.0.1
+Flask==1.1.2
+Pillow==8.0.1
+scikit_learn==0.24.0
+streamlit==0.73.1
+yfinance==0.1.55
