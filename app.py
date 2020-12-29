@@ -1172,6 +1172,7 @@ def main():
     plt.plot(day_pred,asd)
     plt.show()
     st.pyplot()
+    '''
 ########################################################################################10
 
   elif (choose_stock == "CIPLA.NS"):
@@ -6302,7 +6303,7 @@ def main():
     plt.show()
     st.pyplot()
  
-
+'''
  
 
    
