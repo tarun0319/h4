@@ -993,7 +993,7 @@ def main():
 
     temp_input=list(x_input)
     temp_input=temp_input[0].tolist()
-    model = load_model("Stock_Data/BPCL.NS1.model",,compile = False)
+    model = load_model("Stock_Data/BPCL.NS1.model",compile = False)
     a = []
     b= []
    
@@ -1047,6 +1047,7 @@ def main():
     plt.show()
     st.pyplot()
 ##############################################################################################9
+'''
   elif (choose_stock == "BRITANNIA.NS"):
     # get abfrl real time stock price
     ticker = 'BRITANNIA.NS'
@@ -6300,6 +6301,7 @@ def main():
     plt.plot(day_pred,asd)
     plt.show()
     st.pyplot()
+  '''
 
  
 
